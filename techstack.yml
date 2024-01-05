@@ -2,7 +2,7 @@ repo_name: thachlp/elasticsearch
 report_id: 9db9b567c384eb019d5977c7bf496a63
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T04:10:49+00:00'
+timestamp: '2024-01-05T09:04:12+00:00'
 requested_by: nik9000
 provider: github
 branch: main
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/thachlp/elasticsearch
   detection_source: Repo Metadata
 - name: Groovy
   description: A multi-faceted language for the Java platform
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png
+  detection_source_url: https://github.com/thachlp/elasticsearch
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/thachlp/elasticsearch
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -46,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/thachlp/elasticsearch
   detection_source: Repo Metadata
 - name: Mustache
   description: Logic-less templates
@@ -55,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/thachlp/elasticsearch
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -65,6 +70,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/thachlp/elasticsearch
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -74,6 +80,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/x-pack/plugin/sql/qa/server/src/main/resources/geo/setup_test_geo.sql
   detection_source: x-pack/plugin/sql/qa/server/src/main/resources/geo/setup_test_geo.sql
   last_updated_by: Marios Trivyzas
   last_updated_on: 2020-05-22 13:52:41.000000000 Z
@@ -86,6 +93,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/thachlp/elasticsearch
   detection_source: Repo Metadata
 - name: YAML
   description: A straightforward machine parsable data serialization format designed
@@ -96,6 +104,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1744/yaml.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/.buildkite/package.json
   detection_source: ".buildkite/package.json"
   last_updated_by: Brian Seeders
   last_updated_on: 2023-09-29 18:00:12.000000000 Z
@@ -108,6 +117,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg
+  detection_source_url: https://github.com/thachlp/elasticsearch
   detection_source: Repo Metadata
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
@@ -118,6 +128,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/.buildkite/package.json
   detection_source: ".buildkite/package.json"
   last_updated_by: Brian Seeders
   last_updated_on: 2023-09-29 18:00:12.000000000 Z
@@ -129,6 +140,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/5807/default_cbd8ab670309059d7e315252d307d409aa40d793.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-azure/build.gradle
   detection_source: modules/repository-azure/build.gradle
   last_updated_by: Slobodan Adamović
   last_updated_on: 2023-11-23 13:23:10.000000000 Z
@@ -140,6 +152,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-gcs/build.gradle
   detection_source: modules/repository-gcs/build.gradle
   last_updated_by: Pooya Salehi
   last_updated_on: 2022-12-22 12:34:38.000000000 Z
@@ -152,6 +165,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/thachlp/elasticsearch
   detection_source: Repo Metadata
 - name: FindBugs
   description: An open-source static code analyser
@@ -161,6 +175,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/2662/kWjFjx3K_400x400.jpg
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/libs/core/build.gradle
   detection_source: libs/core/build.gradle
   last_updated_by: Tim Brooks
   last_updated_on: 2018-01-15 16:59:01.000000000 Z
@@ -172,6 +187,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/thachlp/elasticsearch
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -181,6 +197,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/.github/workflows/docs-preview-links.yml
   detection_source: ".github/workflows/docs-preview-links.yml"
   last_updated_by: Alex
   last_updated_on: 2022-10-03 20:04:11.000000000 Z
@@ -193,6 +210,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/.ci/init.gradle
   detection_source: ".ci/init.gradle"
   last_updated_by: Rene Groeschke
   last_updated_on: 2023-11-23 11:19:45.000000000 Z
@@ -204,6 +222,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Load Balancer / Reverse Proxy
   image_url: https://img.stackshare.io/service/1179/preview.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/qa/remote-clusters/docker-compose.yml
   detection_source: qa/remote-clusters/docker-compose.yml
   last_updated_by: Yannick Welsch
   last_updated_on: 2020-02-03 08:44:55.000000000 Z
@@ -216,6 +235,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1084/default_392a491b5c8bff92ffa39468611ad8f9c0ff1939.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/x-pack/test/idp-fixture/src/main/resources/idp/Dockerfile
   detection_source: x-pack/test/idp-fixture/src/main/resources/idp/Dockerfile
   last_updated_by: Jake Landis
   last_updated_on: 2022-11-03 18:52:28.000000000 Z
@@ -227,6 +247,7 @@ tools:
   category: Monitoring
   sub_category: Monitoring Tools
   image_url: https://img.stackshare.io/service/1722/Image_2019-05-20_at_4.53.31_PM.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/docs/reference/setup/install/docker/docker-compose.yml
   detection_source: docs/reference/setup/install/docker/docker-compose.yml
   last_updated_by: Yang Wang
   last_updated_on: 2022-08-15 14:40:47.000000000 Z
@@ -238,6 +259,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/x-pack/test/idp-fixture/src/main/resources/idp/shib-jetty-base/resources/logback.xml
   detection_source: x-pack/test/idp-fixture/src/main/resources/idp/shib-jetty-base/resources/logback.xml
   last_updated_by: Jake Landis
   last_updated_on: 2022-11-03 18:52:28.000000000 Z
@@ -264,6 +286,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/x-pack/test/idp-fixture/src/main/resources/oidc/nginx.conf
   detection_source: x-pack/test/idp-fixture/src/main/resources/oidc/nginx.conf
   last_updated_by: Ioannis Kakavas
   last_updated_on: 2020-06-03 06:36:23.000000000 Z
@@ -275,6 +298,7 @@ tools:
   category: Monitoring
   sub_category: Log Management
   image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/ingest-attachment/build.gradle
   detection_source: modules/ingest-attachment/build.gradle
   last_updated_by: Alexander Reelsen
   last_updated_on: 2016-02-09 13:57:05.000000000 Z
@@ -287,6 +311,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Management
   image_url: https://img.stackshare.io/service/768/150px-Vagrant.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/Vagrantfile
   detection_source: Vagrantfile
   last_updated_by: Rory Hunter
   last_updated_on: 2019-10-05 14:40:42.000000000 Z
@@ -298,6 +323,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/.buildkite/package.json
   detection_source: ".buildkite/package.json"
   last_updated_by: Brian Seeders
   last_updated_on: 2023-09-29 18:00:12.000000000 Z
@@ -310,6 +336,7 @@ tools:
   category: Analytics
   sub_category: Business Intelligence
   image_url: https://img.stackshare.io/service/11236/Group_22__3_.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/libs/x-content/impl/build.gradle
   detection_source: libs/x-content/impl/build.gradle
   last_updated_by: Ryan Ernst
   last_updated_on: 2022-03-14 16:06:21.000000000 Z
@@ -321,6 +348,7 @@ tools:
   category: Assets and Media
   sub_category: File Transfer
   image_url: https://img.stackshare.io/service/6552/curl-logo.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/distribution/docker/docker-compose.yml
   detection_source: distribution/docker/docker-compose.yml
   last_updated_by: Alpar Torok
   last_updated_on: 2019-01-24 15:26:42.000000000 Z
@@ -331,6 +359,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8585/a159037c4838e54e93d9f630a295c396_normal.jpeg
+  detection_source_url: https://github.com/thachlp/elasticsearch
   detection_source: Repo Metadata
 - name: Elasticsearch
   description: Open Source, Distributed, RESTful Search Engine
@@ -340,6 +369,7 @@ tools:
   category: Application Utilities
   sub_category: Search as a Service
   image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/distribution/docker/docker-compose.yml
   detection_source: distribution/docker/docker-compose.yml
   last_updated_by: Mark Vieira
   last_updated_on: 2021-09-29 15:07:50.000000000 Z
@@ -351,6 +381,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/thachlp/elasticsearch
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -361,6 +392,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/thachlp/elasticsearch
   detection_source: Repo Metadata
 - name: Ubuntu
   description: The leading OS for PC, tablet, phone and cloud
@@ -370,6 +402,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/distribution/docker/src/docker/Dockerfile
   detection_source: distribution/docker/src/docker/Dockerfile
   last_updated_by: Rory Hunter
   last_updated_on: 2021-12-13 20:42:59.000000000 Z
@@ -382,6 +415,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-s3/build.gradle
   detection_source: modules/repository-s3/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2023-11-22 09:08:58.000000000 Z
@@ -394,6 +428,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/plugins/discovery-ec2/build.gradle
   detection_source: plugins/discovery-ec2/build.gradle
   last_updated_by: Jake Landis
   last_updated_on: 2023-11-21 17:14:41.000000000 Z
@@ -406,6 +441,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-s3/build.gradle
   detection_source: modules/repository-s3/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2023-11-22 09:08:58.000000000 Z
@@ -418,6 +454,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-s3/build.gradle
   detection_source: modules/repository-s3/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2023-11-22 09:08:58.000000000 Z
@@ -429,6 +466,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/client/rest-high-level/build.gradle
   detection_source: client/rest-high-level/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2023-07-04 13:35:15.000000000 Z
@@ -453,6 +491,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/libs/dissect/build.gradle
   detection_source: libs/dissect/build.gradle
   last_updated_by: Mark Vieira
   last_updated_on: 2021-02-02 21:41:39.000000000 Z
@@ -464,6 +503,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/client/sniffer/build.gradle
   detection_source: client/sniffer/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2020-06-30 07:37:09.000000000 Z
@@ -476,6 +516,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/libs/dissect/build.gradle
   detection_source: libs/dissect/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2020-06-12 11:34:53.000000000 Z
@@ -487,6 +528,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/libs/x-content/impl/build.gradle
   detection_source: libs/x-content/impl/build.gradle
   last_updated_by: Ryan Ernst
   last_updated_on: 2023-05-02 20:59:17.000000000 Z
@@ -498,6 +540,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/libs/x-content/impl/build.gradle
   detection_source: libs/x-content/impl/build.gradle
   last_updated_by: Ryan Ernst
   last_updated_on: 2023-05-02 20:59:17.000000000 Z
@@ -509,6 +552,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-azure/build.gradle
   detection_source: modules/repository-azure/build.gradle
   last_updated_by: Mark Vieira
   last_updated_on: 2023-03-27 19:36:14.000000000 Z
@@ -520,6 +564,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/libs/x-content/impl/build.gradle
   detection_source: libs/x-content/impl/build.gradle
   last_updated_by: Ryan Ernst
   last_updated_on: 2023-05-02 20:59:17.000000000 Z
@@ -531,6 +576,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-azure/build.gradle
   detection_source: modules/repository-azure/build.gradle
   last_updated_by: Mark Vieira
   last_updated_on: 2023-03-27 19:36:14.000000000 Z
@@ -543,6 +589,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-azure/build.gradle
   detection_source: modules/repository-azure/build.gradle
   last_updated_by: Przemyslaw Gomulka
   last_updated_on: 2023-05-05 07:38:34.000000000 Z
@@ -554,6 +601,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-azure/build.gradle
   detection_source: modules/repository-azure/build.gradle
   last_updated_by: Slobodan Adamović
   last_updated_on: 2023-11-23 13:23:10.000000000 Z
@@ -644,6 +692,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-gcs/build.gradle
   detection_source: modules/repository-gcs/build.gradle
   last_updated_by: Volodymyr Krasnikov
   last_updated_on: 2023-06-27 16:14:10.000000000 Z
@@ -785,6 +834,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-gcs/build.gradle
   detection_source: modules/repository-gcs/build.gradle
   last_updated_by: Volodymyr Krasnikov
   last_updated_on: 2023-06-27 16:14:10.000000000 Z
@@ -796,6 +846,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-gcs/build.gradle
   detection_source: modules/repository-gcs/build.gradle
   last_updated_by: Volodymyr Krasnikov
   last_updated_on: 2023-06-27 16:14:10.000000000 Z
@@ -808,6 +859,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-gcs/build.gradle
   detection_source: modules/repository-gcs/build.gradle
   last_updated_by: Volodymyr Krasnikov
   last_updated_on: 2023-06-27 16:14:10.000000000 Z
@@ -847,6 +899,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/plugins/analysis-icu/build.gradle
   detection_source: plugins/analysis-icu/build.gradle
   last_updated_by: Alan Woodward
   last_updated_on: 2021-09-21 09:48:26.000000000 Z
@@ -922,6 +975,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/plugins/discovery-azure-classic/build.gradle
   detection_source: plugins/discovery-azure-classic/build.gradle
   last_updated_by: Artem Prigoda
   last_updated_on: 2022-06-23 12:39:25.000000000 Z
@@ -932,6 +986,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/plugins/discovery-azure-classic/build.gradle
   detection_source: plugins/discovery-azure-classic/build.gradle
   last_updated_by: Artem Prigoda
   last_updated_on: 2022-06-23 12:39:25.000000000 Z
@@ -1036,6 +1091,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/client/rest/build.gradle
   detection_source: client/rest/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2023-11-01 15:24:28.000000000 Z
@@ -1087,6 +1143,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/transport-netty4/build.gradle
   detection_source: modules/transport-netty4/build.gradle
   last_updated_by: Armin Braun
   last_updated_on: 2023-04-26 13:04:13.000000000 Z
@@ -1099,6 +1156,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/transport-netty4/build.gradle
   detection_source: modules/transport-netty4/build.gradle
   last_updated_by: Armin Braun
   last_updated_on: 2023-04-26 13:04:13.000000000 Z
@@ -1110,6 +1168,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/transport-netty4/build.gradle
   detection_source: modules/transport-netty4/build.gradle
   last_updated_by: Armin Braun
   last_updated_on: 2023-04-26 13:04:13.000000000 Z
@@ -1119,6 +1178,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-azure/build.gradle
   detection_source: modules/repository-azure/build.gradle
   last_updated_by: Slobodan Adamović
   last_updated_on: 2023-11-23 13:23:10.000000000 Z
@@ -1130,6 +1190,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/transport-netty4/build.gradle
   detection_source: modules/transport-netty4/build.gradle
   last_updated_by: Przemyslaw Gomulka
   last_updated_on: 2023-05-10 12:39:00.000000000 Z
@@ -1141,6 +1202,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/transport-netty4/build.gradle
   detection_source: modules/transport-netty4/build.gradle
   last_updated_by: Armin Braun
   last_updated_on: 2023-04-26 13:04:13.000000000 Z
@@ -1152,6 +1214,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-azure/build.gradle
   detection_source: modules/repository-azure/build.gradle
   last_updated_by: Slobodan Adamović
   last_updated_on: 2023-11-23 13:23:10.000000000 Z
@@ -1163,6 +1226,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/transport-netty4/build.gradle
   detection_source: modules/transport-netty4/build.gradle
   last_updated_by: Armin Braun
   last_updated_on: 2023-04-26 13:04:13.000000000 Z
@@ -1174,6 +1238,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-azure/build.gradle
   detection_source: modules/repository-azure/build.gradle
   last_updated_by: Slobodan Adamović
   last_updated_on: 2023-11-23 13:23:10.000000000 Z
@@ -1186,6 +1251,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/transport-netty4/build.gradle
   detection_source: modules/transport-netty4/build.gradle
   last_updated_by: Armin Braun
   last_updated_on: 2023-04-26 13:04:13.000000000 Z
@@ -1197,6 +1263,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/transport-netty4/build.gradle
   detection_source: modules/transport-netty4/build.gradle
   last_updated_by: Przemyslaw Gomulka
   last_updated_on: 2023-05-10 12:39:00.000000000 Z
@@ -1221,6 +1288,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-azure/build.gradle
   detection_source: modules/repository-azure/build.gradle
   last_updated_by: Slobodan Adamović
   last_updated_on: 2023-11-23 13:23:10.000000000 Z
@@ -1232,6 +1300,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/plugins/discovery-azure-classic/build.gradle
   detection_source: plugins/discovery-azure-classic/build.gradle
   last_updated_by: Artem Prigoda
   last_updated_on: 2022-06-23 12:39:25.000000000 Z
@@ -1321,6 +1390,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/libs/preallocate/build.gradle
   detection_source: libs/preallocate/build.gradle
   last_updated_by: Ryan Ernst
   last_updated_on: 2023-04-10 20:05:43.000000000 Z
@@ -1397,6 +1467,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/x-pack/plugin/esql/qa/testFixtures/build.gradle
   detection_source: x-pack/plugin/esql/qa/testFixtures/build.gradle
   last_updated_by: Andrei Stefan
   last_updated_on: 2023-02-07 11:05:10.000000000 Z
@@ -1420,6 +1491,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/lang-expression/build.gradle
   detection_source: modules/lang-expression/build.gradle
   last_updated_by: Luca Cavanna
   last_updated_on: 2023-01-19 13:07:33.000000000 Z
@@ -1645,6 +1717,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/plugins/repository-hdfs/build.gradle
   detection_source: plugins/repository-hdfs/build.gradle
   last_updated_by: Przemyslaw Gomulka
   last_updated_on: 2023-05-05 07:38:34.000000000 Z
@@ -1669,6 +1742,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/qa/packaging/build.gradle
   detection_source: qa/packaging/build.gradle
   last_updated_by: Mark Vieira
   last_updated_on: 2021-04-28 21:21:01.000000000 Z
@@ -1680,6 +1754,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/client/rest/build.gradle
   detection_source: client/rest/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2023-11-01 15:24:28.000000000 Z
@@ -1691,6 +1766,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/client/rest/build.gradle
   detection_source: client/rest/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2023-11-01 15:24:28.000000000 Z
@@ -1702,6 +1778,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/x-pack/plugin/identity-provider/build.gradle
   detection_source: x-pack/plugin/identity-provider/build.gradle
   last_updated_by: Slobodan Adamović
   last_updated_on: 2023-11-16 10:40:52.000000000 Z
@@ -1713,6 +1790,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/client/rest/build.gradle
   detection_source: client/rest/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2023-11-01 15:24:28.000000000 Z
@@ -1724,6 +1802,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/client/rest/build.gradle
   detection_source: client/rest/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2023-11-01 15:24:28.000000000 Z
@@ -1734,6 +1813,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/ingest-attachment/build.gradle
   detection_source: modules/ingest-attachment/build.gradle
   last_updated_by: Jake Landis
   last_updated_on: 2023-09-18 19:03:59.000000000 Z
@@ -1745,6 +1825,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-gcs/build.gradle
   detection_source: modules/repository-gcs/build.gradle
   last_updated_by: Mark Vieira
   last_updated_on: 2023-05-17 18:05:26.000000000 Z
@@ -1756,6 +1837,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/qa/packaging/build.gradle
   detection_source: qa/packaging/build.gradle
   last_updated_by: Mark Vieira
   last_updated_on: 2021-04-28 21:21:01.000000000 Z
@@ -1767,6 +1849,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/plugins/examples/security-authorization-engine/build.gradle
   detection_source: plugins/examples/security-authorization-engine/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2021-12-16 22:08:24.000000000 Z
@@ -1778,6 +1861,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/qa/packaging/build.gradle
   detection_source: qa/packaging/build.gradle
   last_updated_by: Mark Vieira
   last_updated_on: 2021-04-28 21:21:01.000000000 Z
@@ -1789,6 +1873,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-azure/build.gradle
   detection_source: modules/repository-azure/build.gradle
   last_updated_by: Przemyslaw Gomulka
   last_updated_on: 2023-05-05 07:38:34.000000000 Z
@@ -1800,6 +1885,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/server/build.gradle
   detection_source: server/build.gradle
   last_updated_by: Ryan Ernst
   last_updated_on: 2023-04-10 20:05:43.000000000 Z
@@ -1811,6 +1897,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/lang-expression/build.gradle
   detection_source: modules/lang-expression/build.gradle
   last_updated_by: Luca Cavanna
   last_updated_on: 2023-01-19 13:07:33.000000000 Z
@@ -1822,6 +1909,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/libs/plugin-analysis-api/build.gradle
   detection_source: libs/plugin-analysis-api/build.gradle
   last_updated_by: Mark Vieira
   last_updated_on: 2023-02-01 17:10:51.000000000 Z
@@ -1834,6 +1922,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/lang-expression/build.gradle
   detection_source: modules/lang-expression/build.gradle
   last_updated_by: Luca Cavanna
   last_updated_on: 2023-01-19 13:07:33.000000000 Z
@@ -1845,6 +1934,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/server/build.gradle
   detection_source: server/build.gradle
   last_updated_by: Ryan Ernst
   last_updated_on: 2023-06-20 16:48:25.000000000 Z
@@ -1856,6 +1946,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/server/build.gradle
   detection_source: server/build.gradle
   last_updated_by: Chris Hegarty
   last_updated_on: 2022-07-04 10:30:38.000000000 Z
@@ -1867,6 +1958,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/server/build.gradle
   detection_source: server/build.gradle
   last_updated_by: Chris Hegarty
   last_updated_on: 2022-07-04 10:30:38.000000000 Z
@@ -1878,6 +1970,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/server/build.gradle
   detection_source: server/build.gradle
   last_updated_by: Chris Hegarty
   last_updated_on: 2022-07-04 10:30:38.000000000 Z
@@ -1889,6 +1982,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/server/build.gradle
   detection_source: server/build.gradle
   last_updated_by: Chris Hegarty
   last_updated_on: 2022-07-04 10:30:38.000000000 Z
@@ -1900,6 +1994,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/server/build.gradle
   detection_source: server/build.gradle
   last_updated_by: Chris Hegarty
   last_updated_on: 2022-07-04 10:30:38.000000000 Z
@@ -1911,6 +2006,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/server/build.gradle
   detection_source: server/build.gradle
   last_updated_by: Chris Hegarty
   last_updated_on: 2022-07-04 10:30:38.000000000 Z
@@ -1922,6 +2018,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/server/build.gradle
   detection_source: server/build.gradle
   last_updated_by: Chris Hegarty
   last_updated_on: 2022-07-04 10:30:38.000000000 Z
@@ -1933,6 +2030,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/legacy-geo/build.gradle
   detection_source: modules/legacy-geo/build.gradle
   last_updated_by: Chris Hegarty
   last_updated_on: 2022-06-16 14:28:03.000000000 Z
@@ -1944,6 +2042,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/libs/h3/build.gradle
   detection_source: libs/h3/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2022-10-25 10:14:27.000000000 Z
@@ -1955,6 +2054,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/server/build.gradle
   detection_source: server/build.gradle
   last_updated_by: Kostas Krikellas
   last_updated_on: 2023-06-13 08:43:54.000000000 Z
@@ -1966,6 +2066,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/test/framework/build.gradle
   detection_source: test/framework/build.gradle
   last_updated_by: Chris Hegarty
   last_updated_on: 2023-06-30 17:27:47.000000000 Z
@@ -2003,6 +2104,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/ingest-attachment/build.gradle
   detection_source: modules/ingest-attachment/build.gradle
   last_updated_by: Jake Landis
   last_updated_on: 2023-09-18 19:03:59.000000000 Z
@@ -2029,6 +2131,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/ingest-attachment/build.gradle
   detection_source: modules/ingest-attachment/build.gradle
   last_updated_by: Jake Landis
   last_updated_on: 2023-09-18 19:03:59.000000000 Z
@@ -2040,6 +2143,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/ingest-attachment/build.gradle
   detection_source: modules/ingest-attachment/build.gradle
   last_updated_by: Jake Landis
   last_updated_on: 2023-09-18 19:03:59.000000000 Z
@@ -2051,6 +2155,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/ingest-attachment/build.gradle
   detection_source: modules/ingest-attachment/build.gradle
   last_updated_by: Jake Landis
   last_updated_on: 2023-09-18 19:03:59.000000000 Z
@@ -2062,6 +2167,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/ingest-attachment/build.gradle
   detection_source: modules/ingest-attachment/build.gradle
   last_updated_by: Jake Landis
   last_updated_on: 2023-09-18 19:03:59.000000000 Z
@@ -2087,6 +2193,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/ingest-attachment/build.gradle
   detection_source: modules/ingest-attachment/build.gradle
   last_updated_by: Jake Landis
   last_updated_on: 2023-09-18 19:03:59.000000000 Z
@@ -2138,6 +2245,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-azure/build.gradle
   detection_source: modules/repository-azure/build.gradle
   last_updated_by: Przemyslaw Gomulka
   last_updated_on: 2023-05-05 07:38:34.000000000 Z
@@ -2289,6 +2397,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/legacy-geo/build.gradle
   detection_source: modules/legacy-geo/build.gradle
   last_updated_by: Chris Hegarty
   last_updated_on: 2022-06-16 14:28:03.000000000 Z
@@ -2338,6 +2447,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/x-pack/libs/es-opensaml-security-api/build.gradle
   detection_source: x-pack/libs/es-opensaml-security-api/build.gradle
   last_updated_by: Albert Zaharovits
   last_updated_on: 2023-08-23 09:59:34.000000000 Z
@@ -2348,6 +2458,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/x-pack/plugin/identity-provider/build.gradle
   detection_source: x-pack/plugin/identity-provider/build.gradle
   last_updated_by: Slobodan Adamović
   last_updated_on: 2023-11-16 10:40:52.000000000 Z
@@ -2357,6 +2468,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/x-pack/plugin/identity-provider/build.gradle
   detection_source: x-pack/plugin/identity-provider/build.gradle
   last_updated_by: Slobodan Adamović
   last_updated_on: 2023-11-16 10:40:52.000000000 Z
@@ -2366,6 +2478,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/x-pack/libs/es-opensaml-security-api/build.gradle
   detection_source: x-pack/libs/es-opensaml-security-api/build.gradle
   last_updated_by: Albert Zaharovits
   last_updated_on: 2023-08-23 09:59:34.000000000 Z
@@ -2375,6 +2488,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/x-pack/plugin/identity-provider/build.gradle
   detection_source: x-pack/plugin/identity-provider/build.gradle
   last_updated_by: Slobodan Adamović
   last_updated_on: 2023-11-16 10:40:52.000000000 Z
@@ -2384,6 +2498,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/x-pack/plugin/identity-provider/build.gradle
   detection_source: x-pack/plugin/identity-provider/build.gradle
   last_updated_by: Slobodan Adamović
   last_updated_on: 2023-11-16 10:40:52.000000000 Z
@@ -2395,6 +2510,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/x-pack/plugin/identity-provider/build.gradle
   detection_source: x-pack/plugin/identity-provider/build.gradle
   last_updated_by: Slobodan Adamović
   last_updated_on: 2023-11-16 10:40:52.000000000 Z
@@ -2404,6 +2520,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/x-pack/plugin/identity-provider/build.gradle
   detection_source: x-pack/plugin/identity-provider/build.gradle
   last_updated_by: Slobodan Adamović
   last_updated_on: 2023-11-16 10:40:52.000000000 Z
@@ -2480,6 +2597,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/modules/repository-azure/build.gradle
   detection_source: modules/repository-azure/build.gradle
   last_updated_by: Slobodan Adamović
   last_updated_on: 2023-11-23 13:23:10.000000000 Z
@@ -2530,6 +2648,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/test/fixtures/minio-fixture/build.gradle
   detection_source: test/fixtures/minio-fixture/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2023-12-20 09:01:52.000000000 Z
@@ -2554,6 +2673,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/test/fixtures/minio-fixture/build.gradle
   detection_source: test/fixtures/minio-fixture/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2023-12-20 09:01:52.000000000 Z
@@ -2591,6 +2711,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/thachlp/elasticsearch/blob/main/build-tools-internal/build.gradle
   detection_source: build-tools-internal/build.gradle
   last_updated_by: Rene Groeschke
   last_updated_on: 2023-12-05 08:30:50.000000000 Z
